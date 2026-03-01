@@ -213,7 +213,9 @@ The LLM receives computed JSON and synthesizes a match preview with stats, predi
 
 ## EDA Summary
 
-12 visualizations: WC match counts, goal trends, avg goals per tournament, title winners, top 15 teams by wins, outcome distribution, matches per decade, Brazil vs Germany H2H, WC meeting heatmap, team participation growth, top scorers, goals per decade.
+The notebook generates 12 visualizations covering: WC match counts, goal trends, avg goals per tournament, title winners, top 15 teams by wins, outcome distribution, matches per decade, Brazil vs Germany H2H, WC meeting heatmap, team participation growth, top scorers, and goals per decade.
+
+Below is one example -- the full set is visible in the executed notebook.
 
 ![EDA Heatmap](screenshots/eda_heatmap.png)
 
